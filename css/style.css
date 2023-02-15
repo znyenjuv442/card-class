@@ -1,0 +1,239 @@
+/* introduction */
+.v
+H1{ 
+    color: bisque;
+    background-color: black;
+ display: block;
+ font-size: large;
+
+}
+
+
+/* 1 card start */
+
+
+
+.vlog{
+    width: 300px;
+    background-image: URL(../img/Thomas-Gray.jpg);
+    background-size: 690PX;
+    
+    border-radius: 40px;
+    background-position: center;
+    color: rgb(33, 30, 30);
+    text-align: justify;
+    padding: 30px 30px;
+    display: inline-block;
+    box-sizing: content-box;
+    font-size: 18px;
+    line-height: 27px;
+    margin: 20px 10px;
+}
+
+.vlog
+h2{ 
+    text-align: center;
+color: rgba(25, 216, 48, 0.795);
+font-family: time new roman;
+
+
+}
+.had1
+{color: rgb(0, 175, 15);}
+
+.vlog
+a:hover{
+    margin-left: 20px;
+    transition: 500ms;
+    background-color: aqua;
+    color: black;
+}
+.vlog
+a{
+  
+  color: aqua;
+   text-shadow: rgb(255, 255, 255);
+   padding: 10px 10px;
+ text-decoration: none;
+
+}
+.vlog:hover{
+    transition: 600ms; 
+    margin-left: 40px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);}
+
+/* 1st card end */
+
+/* 2nd card start */
+     
+.sonnet{
+    width: 300px;
+    background-image: url(../img/shakespeare.jpg);
+    background-size: 690PX;
+    
+    border-radius: 40px;
+    background-position: center;
+    color: rgb(5, 165, 125);
+    text-align: justify;
+    padding: 30px 30px;
+    display: inline-block;
+    font-family: cursive;
+    box-sizing: content-box;
+    font-size: 18px;
+    line-height: 27px;
+    margin:50px 10px;
+}
+
+.sonnet
+h2{ 
+    text-align: center;
+color: aqua;
+font-family: time new roman;
+
+
+}
+.hode h4
+{color: rgb(0, 255, 255);}
+ 
+
+.sonnet
+a:hover{
+    margin-left: 20px;
+    transition: 500ms;
+    background-color: rgb(15, 16, 16);
+    color: rgb(245, 239, 239);
+}
+.sonnet
+a{
+  background-color: rgb(44, 44, 63);
+  color: rgb(210, 226, 226);
+   font-family: arial;
+   padding: 5px 5px;
+ text-decoration: none;
+}
+
+.sonnet:hover{
+    transition: 600ms; 
+    margin-left: 40px;
+    background-color: rgb(8, 3, 3);
+    color: rgb(0, 238, 255);
+}
+/* 2nd line end */
+    
+
+
+
+
+/* 3rd card start */
+.Donne{
+    width: 300px;
+    background-image: url(../img/John_Donne_jpg.jpg);
+    background-size: 690PX;
+     
+    border-radius: 40px;
+    background-position: center;
+    color: rgb(196, 9, 9);
+    text-align: justify;
+    padding: 30px 30px;
+    display: inline-block;
+    box-sizing: content-box;
+    font-size: 18px;
+    line-height: 27px;
+    margin: 20px 10px;
+}
+
+
+
+
+
+.Don
+{color: rgb(235, 212, 7);}
+
+.Donne
+a:hover{
+    margin-left: 20px;
+    transition: 500ms;
+    background-color: rgb(17, 17, 17);
+    color: rgb(201, 16, 16);
+}
+.Donne
+a{
+  background-color: rgb(55, 55, 84);
+  color: rgb(100, 18, 4);
+   text-shadow: rgb(255, 255, 255);
+   padding: 5px 5px;
+ text-decoration: none;
+
+}
+.Donne:hover{
+    transition: 600ms; 
+    margin-left: 40px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(245, 239, 239);}
+
+    .Donne
+    h2:hover{
+        text-align: center;
+        color: rgba(108, 211, 160, 0.795);
+        font-family: courier;
+        transition: 500ms;
+        scroll-margin-inline-start: 30px;}
+
+/* 3rd card end */
+
+/*  4rt card start */
+.autum{
+    width: 300px;
+    background-image: url(../img/John_Keats_by_William_Hilton.jpg);
+    background-size: 690PX;
+    
+    border-radius: 40px;
+   background-position: center 1px;
+    color: rgb(59, 65, 63);
+    text-align: justify;
+    padding: 30px 30px;
+    display: inline-block;
+    font-family: cursive;
+    box-sizing: content-box;
+    font-size: 18px;
+    line-height: 27px;
+    margin:50px 10px;
+}
+
+.autum
+h2{ 
+    text-align: center;
+color: rgb(3, 77, 77);
+font-family: time new roman;}
+
+.jhon h4{ color: antiquewhite;
+font-family: arilal;}
+
+
+
+.autum
+a:hover{
+    margin-left: 20px;
+    transition: 500ms;
+    background-color: rgb(15, 16, 16);
+    color: rgb(243, 7, 7);
+}
+.autum
+a{
+  background-color: rgb(23, 23, 39);
+  color: rgb(223, 236, 236);
+   font-family: arial;
+   padding: 5px 5px;
+ text-decoration: none;
+}
+
+.autum:hover{
+    transition: 600ms; 
+    margin-left: 40px;
+    
+    color: rgb(252, 103, 4);}
+
+
+
+ /* 4th card end */
